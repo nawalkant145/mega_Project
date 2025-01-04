@@ -1,0 +1,15 @@
+{
+  "name": "advance_backend_phase",
+  "version": "1.0.0",
+  "description": "Now i am starting strong foundation on backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javaScript",
+    "backend"
+  ],
+  "author": "Nawal kant",
+  "license": "ISC"
+}
